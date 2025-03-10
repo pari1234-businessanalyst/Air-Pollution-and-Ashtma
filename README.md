@@ -19,7 +19,7 @@ a.	Vehicle emission
 b.	Industrial pollution 
 
 
-3.	Fine Particulate matter: [(PM2.5 Mean mcg/m3 ) mean PM2.5 levels in microgram per cubic meter]
+2.	Fine Particulate matter: [(PM2.5 Mean mcg/m3 ) mean PM2.5 levels in microgram per cubic meter]
    
 a.	Irritates the air way
 
@@ -37,7 +37,7 @@ c.	Wildfires
 
 d.	Construction dust
 
-4.	Black Carbon: [(Black Carbon Mean Absorbance) mean black carbon levels]
+3.	Black Carbon: [(Black Carbon Mean Absorbance) mean black carbon levels]
 
 a.	Chronic inflammation
 
